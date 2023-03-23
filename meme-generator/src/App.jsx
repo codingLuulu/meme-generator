@@ -22,14 +22,14 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      {/* <Meme/> */}
+      <Meme/>
       <div className="black">
       {/* <Api/> */}
         {/* <Practice /> */}
       {/* <Joke /> */}
       {/* <Form /> */}
       {/* {data} */}
-      <WindowTracker/>
+      {/* <WindowTracker/> */}
       </div>
     </div>
   ) 
